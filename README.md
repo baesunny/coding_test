@@ -1,4 +1,4 @@
-# coding_test
+# Coding Test Study
 
 > BITAMIN 코테 스터디 시즌2
 
